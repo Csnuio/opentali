@@ -17,11 +17,11 @@
         },
         "CONFIGCADDY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/Csnuio/toolkda/master/etc/Caddyfile"
+            "value": "https://raw.githubusercontent.com/Csnuio/opentali/master/etc/Caddyfile"
         },
         "CONFIGXRAY": {
             "description": "请勿修改",
-            "value": "https://raw.githubusercontent.com/Csnuio/toolkda/master/etc/wry.json"
+            "value": "https://raw.githubusercontent.com/Csnuio/opentali/master/etc/wry.json"
         },
         "ParameterSSENCYPT": {
             "description": "SS加密",
@@ -29,10 +29,10 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/Csnuio/toolkda/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/Csnuio/opentali/master/etc/StoreFiles"
         }
     },
-    "website": "https://github.com/Csnuio/toolkda",
-    "repository": "https://github.com/Csnuio/toolkda",
+    "website": "https://github.com/Csnuio/opentali",
+    "repository": "https://github.com/Csnuio/opentali",
     "stack": "container"
 }
